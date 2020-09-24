@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class DeleteCube : MonoBehaviour
+public class TriggerMoveCube : MonoBehaviour
 {
     [SerializeField]
     private GameObject cube;
